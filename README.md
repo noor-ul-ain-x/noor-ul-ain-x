@@ -1,7 +1,7 @@
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 <div align="center">
-  <img width="200" align='center' src="https://github.com/noor-ul-ain-x/noor-ul-ain-x/blob/main/dp.jpeg">
+  <img src="./dp.jpeg" width="200" >
 </div>
 
 <h1 align="center">I'm Noor Ul Ain</h1>
